@@ -29,7 +29,7 @@ This project focuses on building a predictive model to determine the likelihood 
 ![Univariate Analysis Categorical 2](images/Univariate%20Analysis%20Categorical%202.png)  
 
 ### 📈 Numerical Analysis
-![Univariate Analysis Numerical](images/Univariate%20Analysis%20Numerical.png)  
+![Univariate Analysis Numerical](images/Univariate%20Analysis%20Numerical.png)
 
 ### 🔄 Bivariate Relationships
 ![Bivariate Analysis 1](images/Bivariate%20Analysis%201.png)  
@@ -41,7 +41,7 @@ This project focuses on building a predictive model to determine the likelihood 
 ![Prevailing Wage After Winsorization](images/Prevailing%20Wage%20After%20Winsorization.png)  
 
 ### 🤖 Model Performance
-![Models Before vs After Tuning](images/Models%20-%20Before%20vs%20After%20Tuning.png)  
+![Models Before vs After Tuning](images/Models%20-%20Before%20vs%20After%20Tuning.png) 
 ![F1 Score Comparison Before vs After Tuning Boosting Models](images/F1%20Score%20Comparison%20Before%20vs.%20After%20Tuning%20(Boosting%20Models).png)  
 
 ### 🌟 Feature Importance
