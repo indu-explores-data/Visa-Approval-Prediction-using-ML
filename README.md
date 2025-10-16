@@ -25,28 +25,28 @@ This project focuses on building a predictive model to determine the likelihood 
 ## 📊 Visualizations
 
 ### 📊 Categorical Analysis
-![Univariate Analysis Categorical 1](images/Univariate_Analysis_Categorical_1.png)  
-![Univariate Analysis Categorical 2](images/Univariate_Analysis_Categorical_2.png)  
+![Univariate Analysis Categorical 1](images/Univariate%20Analysis%20Categorical%201.png)  
+![Univariate Analysis Categorical 2](images/Univariate%20Analysis%20Categorical%202.png)  
 
 ### 📈 Numerical Analysis
-![Univariate Analysis Numerical](images/Univariate_Analysis_Numerical.png)  
+![Univariate Analysis Numerical](images/Univariate%20Analysis%20Numerical.png)  
 
 ### 🔄 Bivariate Relationships
-![Bivariate Analysis 1](images/Bivariate_Analysis_1.png)  
-![Bivariate Analysis 2](images/Bivariate_Analysis_2.png)  
+![Bivariate Analysis 1](images/Bivariate%20Analysis%201.png)  
+![Bivariate Analysis 2](images/Bivariate%20Analysis%202.png)  
 
 ### 💰 Wage Analysis
-![Wage Analysis](images/Wage_Analysis.png)  
-![Boxplot Prevailing Wage](images/Boxplot_Prevailing_Wage.png)  
-![Prevailing Wage After Winsorization](images/Prevailing_Wage_After_Winsorization.png)  
+![Wage Analysis](images/Wage%20Analysis.png)  
+![Boxplot Prevailing Wage](images/Boxplot%20-%20Prevailing%20Wage.png)  
+![Prevailing Wage After Winsorization](images/Prevailing%20Wage%20After%20Winsorization.png)  
 
 ### 🤖 Model Performance
-![Models Before vs After Tuning](images/Models_Before_vs_After_Tuning.png)  
-![F1 Score Comparison Before vs After Tuning Boosting Models](images/F1_Score_Comparison_Before_vs_After_Tuning_Boosting_Models.png)  
+![Models Before vs After Tuning](images/Models%20-%20Before%20vs%20After%20Tuning.png)  
+![F1 Score Comparison Before vs After Tuning Boosting Models](images/F1%20Score%20Comparison%20Before%20vs.%20After%20Tuning%20(Boosting%20Models).png)  
 
 ### 🌟 Feature Importance
-![Top 10 Feature Importances Random Forest](images/Top_10_Feature_Importances_Random_Forest.png)  
-![Top 10 Important Features Tuned Gradient Boosting](images/Top_10_Important_Features_Tuned_Gradient_Boosting.png)  
+![Top 10 Feature Importances Random Forest](images/Top%2010%20Feature%20Importances%20(Random%20Forest).png)  
+![Top 10 Important Features Tuned Gradient Boosting](images/Top%2010%20Important%20Features%20-%20Tuned%20Gradient%20Boosting.png)  
 
 ---
 
