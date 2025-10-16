@@ -90,3 +90,27 @@ The Tuned Random Forest model proved to be the most **practical and effective so
    ```bash
    git clone https://github.com/yourusername/visa-approval-prediction.git
    cd visa-approval-prediction
+   
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Open the Jupyter Notebook:
+   ```
+   jupyter notebook "Visa Approval Prediction using ML.ipynb"
+---
+
+## ▶️ Usage Instructions
+
+- Run each cell in the notebook sequentially to reproduce the analysis.
+- Modify parameters (e.g., test size, model hyperparameters) to experiment with model behavior.
+- Visualizations are auto-generated during execution for interactive exploration.
+---
+
+## 🔗 **Connect with Me**
+
+For feedback, collaboration opportunities, or related queries:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
+
+---
