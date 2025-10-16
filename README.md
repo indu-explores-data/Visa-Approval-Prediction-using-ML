@@ -37,7 +37,7 @@ This project focuses on building a predictive model to determine the likelihood 
 
 ### 💰 Wage Analysis
 ![Wage Analysis](images/Wage_Analysis.png)  
-![Boxplot - Prevailing Wage](images/Boxplot_Prevailing_Wage.png)  
+![Boxplot Prevailing Wage](images/Boxplot_Prevailing_Wage.png)  
 ![Prevailing Wage After Winsorization](images/Prevailing_Wage_After_Winsorization.png)  
 
 ### 🤖 Model Performance
