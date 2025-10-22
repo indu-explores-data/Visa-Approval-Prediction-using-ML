@@ -123,3 +123,9 @@ For feedback, collaboration opportunities, or related queries:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
 ---
+
+## 🙌 Feedback & Support
+
+If you found this project helpful or interesting, feel free to ⭐ star the repository and share your thoughts. Contributions and suggestions are always welcome!
+
+
