@@ -107,7 +107,7 @@ The Tuned Random Forest model proved to be the most **practical and effective so
    ```
 **3. Open the Jupyter Notebook:**
    ```
-   jupyter notebook `Visa Approval Prediction using ML.ipynb`
+   jupyter notebook "Visa Approval Prediction using ML.ipynb"
 ```
 ---
 
