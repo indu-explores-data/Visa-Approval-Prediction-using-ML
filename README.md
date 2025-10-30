@@ -98,8 +98,8 @@ The Tuned Random Forest model proved to be the most **practical and effective so
 
 **1. Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/visa-approval-prediction.git
-   cd visa-approval-prediction
+   git clone https://github.com/yourusername/visa-approval-prediction-using-ml.git
+   cd visa-approval-prediction-using-ml
    ```
 **2. Install dependencies:**
    ```
